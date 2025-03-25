@@ -4,8 +4,8 @@ import Home from './Home'
 const App = () => {
   return (
     <>
-    hello
-      {/* <Home /> */}
+    {/* hello */}
+      <Home />
     </>
   )
 }
